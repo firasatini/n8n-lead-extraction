@@ -181,11 +181,3 @@ const getValue = (labelVariants) => {
 * v1.0 — README awal, menjelaskan cara impor, konfigurasi, dan contoh output.
 
 ---
-
-## Kontak
-
-Jika butuh bantuan penyesuaian lebih lanjut (mis. mengubah parser untuk format berbeda), beri tahu saya contoh `snippet` yang sebenarnya dan saya bantu sesuaikan kodenya.
-
----
-
-*README generated for the user.*
